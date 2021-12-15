@@ -1,1 +1,13 @@
 # CS-340
+
+How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+
+Maintainable code is code that is considered easily modified. Having code that is maintainable also translates to code that is adaptable. Writing code that is maintainable is one of the skills that makes one a good programmer. Following the axiom of test early and test often is one way to be able to write maintainable code. Documenting in the remarks the process along the way makes code easy to read and follow as well. Building a CRUD method in this way should be no different. Building each of the methods in the class and testing as one goes is the best course of action.
+
+How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+
+The best approach is one that has been developed and used for quite some time. That is the scientific method. Knowing the first several steps of the scientific method are to study the problem, develop a solution, and create a test. In terms of software and building a database we have learned in the course CS-350 Client/Server Development, the best method is a seven-step process. The first is to review the specs. The second is to prepare an unfiltered data table. Next is to write a set of queries that will be used to filter the database. The fourth step is to build interactive options. The fifth step is to add widgets. The sixth step is to test the dashboard. The final step is to create the README file.
+
+What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+
+The purpose of creating software is to make our lives more efficient. A computer scientist is simply an individual who has devoted their time to working on creating software that does just that. Using methods that have been used for eons by other scientists, computer scientists are able to use computing power of modern-day computers to do amazing things. Developing an online database with an easy-to-use web portal interface will do just that, making a company like Grazioso Salvare more efficient in their purpose of finding dogs to train for service work.
